@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "Al8o+1e50h9FQHx4SFlcyQCKFoy6cltiPpw0I8EAvfga6Jck85ui8A74rdLds7z4O7XfuUqWQj/88L43vxQ7sw==",
+  "success": false,
+  "projectFilePath": "E:\\PracticaVeterinaria\\PracticaVeterinaria.App\\PracticaVeterinaria.App.Servicios\\PracticaVeterinaria.App.Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dasua\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\dasua\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dasua\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\dasua\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\dasua\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\dasua\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete Microsoft.OpenApi 1.2.3 no es compatible con net6.0 (.NETCoreApp,Version=v6.0). El paquete Microsoft.OpenApi 1.2.3 no es compatible con marcos de destino.",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

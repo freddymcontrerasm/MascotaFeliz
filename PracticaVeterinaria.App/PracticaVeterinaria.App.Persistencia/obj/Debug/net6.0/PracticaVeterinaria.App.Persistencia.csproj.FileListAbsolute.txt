@@ -1,0 +1,14 @@
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Persistencia.deps.json
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Persistencia.dll
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Persistencia.pdb
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.csproj.AssemblyReference.cache
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.AssemblyInfoInputs.cache
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.AssemblyInfo.cs
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.csproj.CoreCompileInputs.cache
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.dll
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\refint\PracticaVeterinaria.App.Persistencia.dll
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.pdb
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\ref\PracticaVeterinaria.App.Persistencia.dll
+E:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Persistencia.runtimeconfig.json
+E:\PracticaVeterinaria\PracticaVeterinaria.app\PracticaVeterinaria.app.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.genruntimeconfig.cache

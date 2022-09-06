@@ -1,0 +1,15 @@
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\bin\Debug\net6.0\PracticaVeterinaria.App.Consola.exe
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\bin\Debug\net6.0\PracticaVeterinaria.App.Consola.deps.json
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\bin\Debug\net6.0\PracticaVeterinaria.App.Consola.runtimeconfig.json
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\bin\Debug\net6.0\PracticaVeterinaria.App.Consola.dll
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\bin\Debug\net6.0\PracticaVeterinaria.App.Consola.pdb
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\obj\Debug\net6.0\PracticaVeterinaria.App.Consola.csproj.AssemblyReference.cache
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\obj\Debug\net6.0\PracticaVeterinaria.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\obj\Debug\net6.0\PracticaVeterinaria.App.Consola.AssemblyInfoInputs.cache
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\obj\Debug\net6.0\PracticaVeterinaria.App.Consola.AssemblyInfo.cs
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\obj\Debug\net6.0\PracticaVeterinaria.App.Consola.csproj.CoreCompileInputs.cache
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\obj\Debug\net6.0\PracticaVeterinaria.App.Consola.dll
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\obj\Debug\net6.0\refint\PracticaVeterinaria.App.Consola.dll
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\obj\Debug\net6.0\PracticaVeterinaria.App.Consola.pdb
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\obj\Debug\net6.0\PracticaVeterinaria.App.Consola.genruntimeconfig.cache
+E:\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.consola\obj\Debug\net6.0\ref\PracticaVeterinaria.App.Consola.dll
